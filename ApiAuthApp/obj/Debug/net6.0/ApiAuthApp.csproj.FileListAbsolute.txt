@@ -1,0 +1,6 @@
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.csproj.AssemblyReference.cache
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.AssemblyInfoInputs.cache
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.AssemblyInfo.cs
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.csproj.CoreCompileInputs.cache
+/home/juan/dev/fullStack/tooken/ApiAuthApp/obj/Debug/net6.0/ApiAuthApp.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "yz18DUZnZjduGyLNFWmfFV7PRp5udweQFnTR237XGe0LxMin6mUmOHhK/hDsU4Dno70y203PHSCATxC0W/36hA==",
+  "success": true,
+  "projectFilePath": "/home/juan/dev/fullStack/tooken/ApiAuthApp/ApiAuthApp.csproj",
+  "expectedPackageFiles": [
+    "/home/juan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.21/microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512",
+    "/home/juan/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
